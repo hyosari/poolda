@@ -3,4 +3,7 @@
   "days":"7",
   "msg":"업데이트 사항이 있습니다",
   "link": "https://drive.google.com/file/d/10nZzLAddozgna109ZJj1wtfxAAPEUc_G/view"
+  "alarmDate": "2020-07-17",
+  "alarmMsg": "2020.07.16 00:00AM ~ 03:00 AM에 서버 점검이 있을 예정입니다. 점검 중에는 음성인식을 이용할 수 없습니다.",
+  "alarmLink": "https://pooolda.com"
 }
